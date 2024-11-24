@@ -1,1 +1,2 @@
-import FB
+from Set import FB
+FB()
