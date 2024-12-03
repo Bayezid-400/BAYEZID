@@ -1,2 +1,1 @@
-from import FB
-FB()
+import os FB
