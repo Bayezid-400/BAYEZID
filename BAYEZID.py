@@ -1,5 +1,5 @@
 import a
-""
+"""
 import os, FB
 
 while True:
